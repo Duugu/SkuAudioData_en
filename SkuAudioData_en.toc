@@ -1,7 +1,7 @@
 ## Interface: 20503
-## Title: SkuAudioData_en (1)
+## Title: SkuAudioData_en (2)
 ## SavedVariables: 
-## Version: 1
+## Version: 2
 assets\SkuAudioFileIndex.lua
 assets\SkuAudioDataLenIndex.lua
 Core.lua
