@@ -58334,6 +58334,20 @@ SkuAudioFileIndex = {
 ["zukk"] = "01750_171120221925.mp3", 
 ["zun"] = "01751_171120221925.mp3", 
 ["zzarc"] = "01752_171120221925.mp3", 
-
+["sound-axe01"] = 0.26,
+["sound-blaze01"] = 1.5,
+["sound-interface01"] = 0.19,
+["sound-interface02"] = 0.25,
+["sound-interface03"] = 0.25,
+["sound-interface04"] = 0.45,
+["sound-interface05"] = 0.5,
+["sound-interface06"] = 0.13,
+["sound-shot01"] = 0.26,
+["sound-sword01"] = 0.7,
+["sound-sword02"] = 0.95,
+["sound-sword03"] = 0.21,
+["sound-TutorialClose01"] = 0.96,
+["sound-TutorialOpen01"] = 1.09,
+["sound-TutorialSuccess01"] = 2.2,
 
 }
