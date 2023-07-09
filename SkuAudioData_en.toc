@@ -1,7 +1,8 @@
-## Interface: 30400
-## Title: SkuAudioData_en (10)
+## Interface: 30402
+## Title: SkuAudioData_en (11)
 ## SavedVariables: 
-## Version: 10
+## Version: 11
+## X-Curse-Project-ID: 880021
 assets\SkuAudioFileIndex.lua
 assets\SkuAudioDataLenIndex.lua
 Core.lua
